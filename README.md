@@ -1,0 +1,2 @@
+# Checkers
+Pygame checkers
